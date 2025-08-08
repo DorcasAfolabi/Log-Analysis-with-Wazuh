@@ -6,8 +6,8 @@ Baztech Inc., a startup specializing in securing data and infrastructure across 
 
 
 ## Tools and Technology 
-#. Pfsense
-#. Wazuh
-#. Ubuntu
-#. Windows 10
-#. Kali linux
+. Pfsense
+. Wazuh
+. Ubuntu
+.Windows 10
+.Kali linux
