@@ -13,3 +13,5 @@ Baztech Inc., a startup specializing in securing data and infrastructure across 
 ##  5.Kali linux
 ## 6. Nmap
 ## 7. Hydra
+
+
