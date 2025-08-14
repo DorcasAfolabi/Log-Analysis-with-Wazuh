@@ -11,3 +11,5 @@ Baztech Inc., a startup specializing in securing data and infrastructure across 
 ## 3. Ubuntu
 ## 4. Windows 10
 ##  5.Kali linux
+## 6. Nmap
+## 7. Hydra
