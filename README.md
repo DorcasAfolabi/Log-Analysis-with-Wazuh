@@ -15,3 +15,6 @@ Baztech Inc., a startup specializing in securing data and infrastructure across 
 ## 7. Hydra
 
 
+Attached is a report for this project https://github.com/DorcasAfolabi/Log-Analysis-with-Wazuh/blob/main/Baztec_Wazuh_Project_Report%5B1%5D%201.pdf
+
+
